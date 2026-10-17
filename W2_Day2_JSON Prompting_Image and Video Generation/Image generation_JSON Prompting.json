@@ -1,0 +1,38 @@
+{
+  "prompt": {
+    "subject": "A vibrant, panoramic celebration of rich Tamil heritage, arts, and traditional craftsmanship set within the sunlit stone corridor of a Dravidian temple complex.",
+    "focal_elements": [
+      {
+        "element": "Bharatanatyam dancer",
+        "details": "In an expressive Araimandi posture, wearing an authentic maroon and temple-gold Kanchipuram silk dance costume, adorned with traditional temple jewelry, salangai (ghungroos), and intricate maruthani (henna) patterns on hands."
+      },
+      {
+        "element": "Traditional master artisan",
+        "details": "Carefully chiseling a lost-wax bronze idol of Nataraja with fine hand tools, accompanied by miniature Thanjavur art panels with embossed gold foil and semi-precious stones."
+      },
+      {
+        "element": "Silambam martial artist",
+        "details": "A dynamic young performer mid-spin with a bamboo staff (Silambam), showcasing speed, discipline, and traditional valor."
+      },
+      {
+        "element": "Carnatic musicians",
+        "details": "Seated artists playing the Nadaswaram, Thavil, and Saraswati Veena, capturing the essence of classical rhythm and melody."
+      }
+    ],
+    "background_and_setting": {
+      "architecture": "Intricately carved granite pillars featuring Yali sculptures, towering multi-tiered Gopuram visible in the soft-focus distance, and polished stone flooring.",
+      "cultural_decor": "Hand-drawn rice flour Kolam (Rangoli) on the entrance floor, brass Vilakku (lamps) casting a steady flame, fresh marigold and jasmine garlands, and green plantain stalks framing the pavilion."
+    },
+    "lighting_and_atmosphere": {
+      "lighting": "Golden hour sunlight streaming through stone pillars, creating soft volumetric light rays mixed with the warm amber glow of oil lamps.",
+      "ambiance": "Majestic, reverent, celebratory, vibrant, deep cultural pride, cinematic depth of field."
+    },
+    "technical_parameters": {
+      "style": "Ultra-detailed realistic digital painting with photographic lighting fidelity",
+      "aspect_ratio": "16:9",
+      "resolution": "8K UHD",
+      "color_palette": "Deep crimson, turmeric yellow, bronze gold, peacock blue, and weathered granite gray",
+      "negative_prompt": "blurry, modern attire, low resolution, distorted hands, extra limbs, cartoonish, western architecture, flat lighting"
+    }
+  }
+}
