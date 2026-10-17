@@ -10,4 +10,4 @@ The goal of this repository is twofold:
 
 - **Consistency & Accountability:** To maintain daily coding discipline and track steady progression over time.
 
-- **Transparent Portfolio:** To document not just final solutions, but the iterative thought process, debugging steps, and concepts learned along the wa
+- **Transparent Portfolio:** To document not just final solutions, but the iterative thought process and concepts learned along the way.
