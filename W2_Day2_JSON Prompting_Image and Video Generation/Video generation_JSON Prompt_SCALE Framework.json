@@ -1,0 +1,309 @@
+{
+
+  "title": "The Timeless Glory of Tamil Culture",
+
+  "framework": "SCALE",
+
+  "video_type": "Cinematic cultural documentary",
+
+  "duration": "60-90 seconds",
+
+  "aspect_ratio": "16:9",
+
+  "language": "Tamil with optional English subtitles",
+
+
+
+  "SCALE": {
+
+    "Subject": {
+
+      "description": "A grand visual celebration of Tamil civilization, heritage, creativity, knowledge, craftsmanship, arts, traditions and maritime spirit.",
+
+      "people": [
+
+        "Tamil classical dancers performing Bharatanatyam",
+
+        "Silambam martial artists demonstrating traditional skills",
+
+        "Tamil musicians playing parai, nadaswaram and thavil",
+
+        "Traditional artisans creating bronze sculptures, pottery and handloom textiles",
+
+        "Farmers working in lush agricultural landscapes",
+
+        "Tamil women wearing elegant traditional sarees with jasmine flowers",
+
+        "Tamil men wearing veshti and traditional attire",
+
+        "Scholars studying ancient Tamil literature and palm-leaf manuscripts"
+
+      ],
+
+      "heritage_elements": [
+
+        "Tamil language and ancient literature",
+
+        "Sangam-era cultural imagination",
+
+        "Temple architecture",
+
+        "Chola maritime heritage",
+
+        "Traditional crafts",
+
+        "Classical music and dance",
+
+        "Silambam",
+
+        "Jallikattu as a cultural tradition",
+
+        "Agriculture and village life",
+
+        "Tamil maritime trade",
+
+        "Kumari Kandam as a legendary ancestral homeland"
+
+      ]
+
+    },
+
+
+
+    "Composition": {
+
+      "opening": "Begin with a dramatic sunrise over the Indian Ocean, slowly revealing the Tamil Nadu coastline.",
+
+      "visual_flow": [
+
+        "Ocean waves transition into ancient Tamil landscapes",
+
+        "Close-up of Tamil letters being written on palm leaves",
+
+        "Ancient temple towers rise dramatically into the sky",
+
+        "Cut to Bharatanatyam dancers performing in a grand temple courtyard",
+
+        "Transition to Silambam warriors demonstrating synchronized movements",
+
+        "Show artisans crafting bronze statues, pottery and silk textiles",
+
+        "Reveal farmers working among green paddy fields",
+
+        "Show ancient Tamil ships sailing across the ocean",
+
+        "Transition into a majestic visualization of legendary Kumari Kandam beneath an ancient ocean horizon",
+
+        "Return to modern Tamil Nadu, connecting ancient heritage with today's generation",
+
+        "End with the Tamil language appearing elegantly on screen"
+
+      ],
+
+      "camera": [
+
+        "aerial drone shots",
+
+        "slow cinematic tracking shots",
+
+        "macro close-ups of craftsmanship",
+
+        "wide establishing shots",
+
+        "slow-motion cultural performances",
+
+        "smooth transitions between ancient and modern scenes"
+
+      ]
+
+    },
+
+
+
+    "Action": {
+
+      "sequence": [
+
+        "Waves move gently along the ancient coastline",
+
+        "A palm-leaf manuscript is opened and Tamil script is revealed",
+
+        "Bharatanatyam dancers perform expressive movements",
+
+        "Silambam practitioners demonstrate fast and precise martial-art techniques",
+
+        "Musicians perform traditional Tamil rhythms",
+
+        "Artisans hammer and sculpt bronze",
+
+        "Weavers create colorful traditional textiles",
+
+        "Farmers harvest rice in golden fields",
+
+        "Traditional Tamil boats and ancient trading ships travel across the ocean",
+
+        "A mythical visualization of Kumari Kandam emerges through mist, connecting land, sea and ancient Tamil imagination",
+
+        "Young Tamil children and modern professionals appear, symbolizing the continuation of Tamil heritage",
+
+        "Final shot shows a vast Tamil cultural celebration with everyone gathered together"
+
+      ],
+
+      "motion_style": "Graceful, realistic, cinematic and culturally respectful",
+
+      "transitions": "Ocean-wave dissolves, golden light transitions, manuscript-to-landscape transitions and seamless ancient-to-modern visual transitions"
+
+    },
+
+
+
+    "Location": {
+
+      "primary": "Tamil Nadu, South India",
+
+      "locations": [
+
+        "Ancient Tamil temple courtyards",
+
+        "Tamil Nadu villages",
+
+        "Rice fields and agricultural landscapes",
+
+        "Traditional artisan workshops",
+
+        "South Indian coastal landscapes",
+
+        "Indian Ocean",
+
+        "Ancient maritime trade routes",
+
+        "Fictionalized legendary landscape representing Kumari Kandam",
+
+        "Modern Tamil Nadu cities"
+
+      ],
+
+      "historical_visualization": "Create an imaginative, mythical reconstruction of Kumari Kandam beneath and beyond the southern Indian Ocean, inspired by Tamil literary traditions and cultural memory. Do not present it as scientifically proven historical fact."
+
+    },
+
+
+
+    "Aesthetics": {
+
+      "style": "Epic cinematic documentary with South Indian cultural authenticity",
+
+      "visual_quality": "Ultra-detailed, photorealistic, cinematic 4K",
+
+      "lighting": "Warm golden sunlight, dramatic sunrise and sunset lighting, temple oil-lamp illumination",
+
+      "color_palette": [
+
+        "earthy bronze",
+
+        "deep red",
+
+        "gold",
+
+        "turmeric yellow",
+
+        "rich green",
+
+        "deep ocean blue"
+
+      ],
+
+      "costume": "Authentic Tamil traditional clothing including sarees, veshti, temple jewelry and jasmine flowers",
+
+      "architecture": "Authentic Dravidian temple architecture with towering gopurams, stone sculptures and traditional courtyards",
+
+      "music": "Epic orchestral score blended with Tamil classical instruments, parai, nadaswaram, thavil and traditional rhythmic elements",
+
+      "sound_design": [
+
+        "ocean waves",
+
+        "temple bells",
+
+        "parai rhythms",
+
+        "nadaswaram",
+
+        "traditional village ambience",
+
+        "blacksmith and artisan workshop sounds"
+
+      ],
+
+      "mood": [
+
+        "pride",
+
+        "wonder",
+
+        "heritage",
+
+        "resilience",
+
+        "knowledge",
+
+        "unity",
+
+        "timelessness"
+
+      ]
+
+    }
+
+  },
+
+
+
+  "narrative": {
+
+    "theme": "From ancient traditions to the modern world, Tamil culture continues to evolve while preserving its language, knowledge, arts and identity.",
+
+    "voiceover": "From the shores of the ancient Tamil land emerged a civilization rich in language, knowledge, art, courage and creativity. From Sangam traditions to magnificent temples, from Silambam to Bharatanatyam, from skilled artisans to fearless seafarers, the spirit of Tamil culture has travelled across generations. In Tamil tradition and legend, the story of Kumari Kandam evokes a mysterious ancestral world beneath the southern seas. Whether remembered through literature, legend or imagination, it represents the enduring connection between Tamil people, land and ocean. Today, that heritage lives on—in every word, every rhythm, every craft and every generation.",
+
+    "ending_text": "தமிழ் — மொழி மட்டுமல்ல, ஒரு நாகரிகத்தின் நினைவு.",
+
+    "english_subtitle": "Tamil — not merely a language, but the memory of a civilization."
+
+  },
+
+
+
+  "negative_prompt": [
+
+    "historical inaccuracies presented as proven facts",
+
+    "modern buildings in ancient scenes",
+
+    "incorrect Tamil clothing",
+
+    "incorrect temple architecture",
+
+    "stereotypical representation of Tamil people",
+
+    "distorted faces",
+
+    "extra fingers",
+
+    "deformed hands",
+
+    "unreadable Tamil text",
+
+    "generic fantasy costumes",
+
+    "western medieval architecture",
+
+    "low resolution",
+
+    "cartoon appearance",
+
+    "oversaturated colors"
+
+  ]
+
+} 
